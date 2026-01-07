@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/00_basic_program" isTestSource="false" packagePrefix="basic_program" />
+      <sourceFolder url="file://$MODULE_DIR$/01_patterns" isTestSource="false" packagePrefix="patterns" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Bit_Manipulation" isTestSource="false" packagePrefix="bit_manipulation" />
+      <sourceFolder url="file://$MODULE_DIR$/05_DivideAndConquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Graph" isTestSource="false" packagePrefix="NonLineal_DSA.Graph" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

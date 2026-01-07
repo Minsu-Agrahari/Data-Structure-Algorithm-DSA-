@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_UsingArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_UsingArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_CircularQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_CirculareQueueArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_LinkedListQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_CollectionFramWork" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_QueueUsing2Stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9_Deque" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
